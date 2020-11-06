@@ -6,5 +6,7 @@ int main() {
    int second = 6;
    int sum = first + second;
    printf("%d", sum);
+
+   printf("the world is nice");
    return 0;
 }
